@@ -55,4 +55,6 @@ Orchestration:
 ======
 
 this app can be deployed to an orchestrator, in order to be scaled and test the performance with multiple instances
+```
 docker stack deploy -c swarm.yml basic-info
+```
