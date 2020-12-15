@@ -1,0 +1,10 @@
+{
+  "name": "basicinfo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
